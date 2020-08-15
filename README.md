@@ -59,3 +59,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+//how to add and push project on git
+1)First open project on Terminal.
+2)Then,open github and make new repository.
+3)Open Terminal and type:
+        -git init   
+        -git status(code will be in red color)
+        -git add .
+        -git status(after adding code should be in green color)
+        -git commit -m "Your Task Message"(after commit your code should be in white color)
+        -git remote add github YOUR_REPOSITORY_URL.git
+        -git push -f github master
+        
+NOTE: Sometimes in LINUX it may ask to type your email, username and password ,So be prepare of it.
+
+##THANK YOU##
